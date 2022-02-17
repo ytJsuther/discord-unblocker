@@ -1,0 +1,21 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "latest",
+    "cookie-parser": "^1.4.5",
+    "cors-anywhere": "^0.4.1",
+    "express": "^4.17.1",
+    "http-proxy": "^1.18.0",
+    "jsdom": "^16.4.0",
+    "node-fetch": "^2.6.1",
+    "node-html-parser": "^2.0.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
